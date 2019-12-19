@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Arjuna Dratharashtra</Authors>
+    <Company>Home</Company>
+    <Version>1.0.0</Version>
+    <PackageDescription>Sample NuGetTwo</PackageDescription>
+    <RepositoryUrl>https://github.com/wowarjuna/package-sample</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
